@@ -1,7 +1,7 @@
 {
   "name": "deferp",
   "version": "0.0.1",
-  "description": "Defer Promise's result",
+  "description": "Defer the results of Promise",
   "main": "index.js",
   "repository": "git@github.com:minodisk/deferp.git",
   "author": "Daisuke Mino <daisuke.mino@gmail.com>",
