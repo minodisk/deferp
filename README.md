@@ -1,4 +1,4 @@
-# deferp
+# deferp [![CircleCI](https://img.shields.io/circleci/project/github/minodisk/deferp/master.svg?style=flat-square)](https://circleci.com/gh/minodisk/deferp)
 
 Defer the results of Promise.
 
